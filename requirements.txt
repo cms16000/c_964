@@ -1,4 +1,4 @@
-tensorflow==1.15
+tensorflow
 matplotlib
 numpy
 pandas
@@ -9,4 +9,4 @@ ipympl
 ipywidgets
 sklearn
 seaborn
-opencv-python==4.4.0.46
+opencv-python
