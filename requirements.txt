@@ -9,3 +9,4 @@ ipympl
 ipywidgets
 sklearn
 seaborn
+opencv-python
