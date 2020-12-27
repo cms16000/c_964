@@ -9,4 +9,4 @@ ipympl
 ipywidgets
 sklearn
 seaborn
-opencv-python
+opencv-python==4.4.0.46
