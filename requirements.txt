@@ -1,0 +1,11 @@
+tensorflow==1.15
+matplotlib
+numpy
+pandas
+keras
+voila
+voila-material
+ipympl
+ipywidgets
+sklearn
+seaborn
